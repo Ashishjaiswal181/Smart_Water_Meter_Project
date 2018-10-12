@@ -1,0 +1,18 @@
+Abstract
+project: Smart Water Meter 
+Introduction:
+	The Smart Watermeter moniters and analyzes of the input and output of the water hence calcualting the amount of water used by a house and tally the data with the standard usages per person so that the extra usages can be considered as a wasteage of water and be charged. There will be a base charge for the meter and a very thin cost for the standard amount usage then a thicker cost for extra usages(considered wastage of water).
+	Even when the world has sufficient amount of water still we face problems related to water scarcity and disputes for the water usages. This basically occures because of the ill uages of water. The smartwater meter is a step towards the monitering the uages of water and making pay for the usages so when the water will have a value(in currency) it will have a value. We are using basic sensor and microconreoller which are already available to construct a model that will check moniter the inflow and outflow and hence calculate and charge accordingly also check the leakage hence minimising the wastage of water. also the collected money can be utilised to supply water to remote places or to the needy.
+	By implementing the smart water to each and every house we can decerease the wastage of water collect revenue which can be utilised in various ways also we can teach the value of water to people who take it as granted.
+
+Need:
+	Even when the world has sufficient amount of water still we face problems related to water scarcity and disputes for the water usages like the couvery and indus river water disputes. This basically occures because of the ill uages of water. People are not aware of the value of the water, they simply ignore the wastage of water and give more priority to all other stuffs around. They don't even know that the more they waste the more poor quality of water they recieve and the next generation completely depends on what they leave for them. The smartwater meter is a step towards the monitering the uages of water and making pay for the usages so when the water will have a value(in currency) it will have a value. We not only focus on water wasted by people but also on the wastage due to leakage in  pipeline which can be repaired at the real time of leakage itself.
+
+Impact:
+	By implementing the smart watermeter to each and every house we can decerease the wastage of water and collected revenue goes to the government which can be utilised in various ways in the benefits of the public. Also we can spread the value of water to people who take it as granted and spread awareness about the problem faced by others in different places due to lack of water supply. People will develop good habit of water harvesting by different techniques instead of letting it wash away
+
+Motivation:
+Even when the world has sufficient amount of water still we face problems related to water scarcity and disputes for the water usages. This basically occures because of the ill uages of water. The smartwater meter is a step towards the monitering the uages of water and making pay for the usages so when the water will have a value(in currency) it will have a value. We are using basic sensor and microconreoller which are already available to construct a model that will check moniter the inflow and outflow and hence calculate and charge accordingly also check the leakage hence minimising the wastage of water. also the collected money can be utilised to supply water to remote places or to the needy.
+
+
+

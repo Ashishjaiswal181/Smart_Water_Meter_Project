@@ -1,0 +1,17 @@
+1. notification
+2. real time satistics of uses
+3. wireless conection betwwen the sensors and the meter (bluetooth preferred)
+4. soem scanner to read the meter (since the meter ma b underground)
+5. power source of the sensors(same used for lighting the leds and the wireless bluetooth)
+6. batter life
+7. sensor connection to microprocessor
+8. water proof sensors and wires exists
+9. monitering the inflow of both the cauvery and borwell water with different taxes dealilng
+10. abstract
+impact
+motivsation
+compitition
+existing 
+customer and user
+need
+objective
